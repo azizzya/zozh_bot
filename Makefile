@@ -1,5 +1,5 @@
 PROJECT_DIR := /root/projects/zozh_bot
-VENV_PY := $(PROJECT_DIR)/botvenv/bin/python
+VENV_PY := $(PROJECT_DIR)/venv/bin/python3
 SERVICE := zozhbot
 
 deploy:
